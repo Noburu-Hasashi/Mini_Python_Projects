@@ -55,4 +55,5 @@ Place: Berlin, Germany
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
 
-
+Name : [Uday Angrish] - (https://github.com/Noburu-Hasashi)
+Place : Jalandhar, India
