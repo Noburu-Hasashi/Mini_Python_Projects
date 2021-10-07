@@ -94,3 +94,6 @@ Place: India
 
 Name: [Emad Rad](https://github.com/codewithemad)
 Place: Iran
+
+Name: [Uday Angrish](https://github.com/Noburu-Hasashi)
+Place: India
